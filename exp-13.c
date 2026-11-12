@@ -38,3 +38,15 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter student name: Rahul
+Enter roll number: 101
+Enter age: 20
+Enter total marks: 450
+
+--- Student Information ---
+Name     : Rahul
+Roll No  : 101
+Age      : 20
+Marks    : 450
