@@ -28,3 +28,10 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter number of elements: 5
+Enter array elements:
+10 20 30 40 50
+Enter element to search: 30
+Element found at position 3
