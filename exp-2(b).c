@@ -13,3 +13,7 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter values of A, B, and C: 1 2 3
+Result = 10.00
