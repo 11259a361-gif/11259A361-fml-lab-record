@@ -29,3 +29,7 @@ int main() {
 
     return 0;
 }
+
+output:
+Sorted array (Bubble Sort):
+12 22 25 34 64
