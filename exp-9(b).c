@@ -18,3 +18,7 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter a string: Hello
+Copied string: Hello
