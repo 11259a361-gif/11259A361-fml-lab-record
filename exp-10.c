@@ -24,3 +24,9 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter two numbers: 10 20
+Before swap in main: x = 10, y = 20
+Inside function (after swap): a = 20, b = 10
+After swap in main: x = 20, y = 10
