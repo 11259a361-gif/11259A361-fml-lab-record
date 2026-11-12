@@ -13,3 +13,7 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter values of x, y, z: 1 2 3
+Result = 3.5835
