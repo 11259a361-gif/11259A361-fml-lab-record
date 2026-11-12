@@ -34,3 +34,22 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter details of student 1:
+Roll No: 101
+Name: Alice
+Marks: 88.5
+Enter details of student 2:
+Roll No: 102
+Name: Bob
+Marks: 92.0
+Enter details of student 3:
+Roll No: 103
+Name: Charlie
+Marks: 79.25
+
+Student Details:
+Roll No: 101, Name: Alice, Marks: 88.50
+Roll No: 102, Name: Bob, Marks: 92.00
+Roll No: 103, Name: Charlie, Marks: 79.25
