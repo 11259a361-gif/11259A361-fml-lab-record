@@ -36,3 +36,8 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter two numbers: 12.5 4
+Enter operator (+, -, *, /): *
+Result = 50.00
