@@ -18,3 +18,7 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter number of terms: 5
+Fibonacci Series: 0 1 1 2 3 
