@@ -14,3 +14,7 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter an integer: 4
+The number is Even
