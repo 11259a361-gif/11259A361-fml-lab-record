@@ -15,3 +15,7 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter value of n: 5
+Sum = 15
