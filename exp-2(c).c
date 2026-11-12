@@ -15,3 +15,7 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter the three sides of the triangle: 3 4 5
+Area of the triangle = 6.00
