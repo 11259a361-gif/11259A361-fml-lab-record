@@ -66,3 +66,27 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter rows and columns of Matrix A: 2 2
+Enter rows and columns of Matrix B: 2 2
+
+Enter elements of Matrix A:
+1 2
+3 4
+
+Enter elements of Matrix B:
+5 6
+7 8
+
+Matrix Addition:
+6 8 
+10 12 
+
+Matrix Subtraction:
+-4 -4 
+-4 -4 
+
+Matrix Multiplication:
+19 22 
+43 50 
